@@ -1,0 +1,6 @@
+>araC gene_coords=1-10 strand=+
+ATGCGTACGA
+>crp gene_coords=20-35 strand=-
+ATCGATCGATCGATCG
+>lacZ gene_coords=5-20 strand=+
+GCTAGCTAGCTAGCTA
